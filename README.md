@@ -11,9 +11,7 @@ I'm a final-year Computer Science student looking for internship opportunities a
 | [Job Tracker](https://github.com/ibiraza1077-pixel/job-tracker) | Application tracking with sign-up, login and per-user records | JavaScript, React, Express, PostgreSQL, JWT |
 | [UniLondon](https://github.com/ibiraza1077-pixel/ibiraza1077-pixel.github.io) | A student resource app with saved listings, offline support and scheduled data updates | JavaScript, Python, service workers, GitHub Actions |
 
-[Explore UniLondon](https://ibiraza1077-pixel.github.io/)
-
-[Try AI Interview Coach](https://cf-ai-interview-coach.ai-interview-coach.workers.dev/)
+Try the projects: [CodePair](https://codepair-nine.vercel.app/), [AI Interview Coach](https://cf-ai-interview-coach.ai-interview-coach.workers.dev/), [Job Tracker](https://job-tracker-liart-theta.vercel.app/) and [UniLondon](https://ibiraza1077-pixel.github.io/). The free API hosts for CodePair and Job Tracker may take about a minute to wake after inactivity.
 
 ## What I'm working on
 
