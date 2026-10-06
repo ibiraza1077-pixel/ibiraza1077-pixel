@@ -4,6 +4,7 @@ Final-year BSc Computer Science student, graduating in 2027 and looking for **gr
 
 **Languages:** TypeScript, JavaScript, Python, SQL
 **Frameworks:** React, Node.js/Express, FastAPI, Socket.IO
+**AI/ML:** Whisper (MLX), Claude API, OpenCV, local diffusion and TTS models
 **Data & cloud:** PostgreSQL, Cloudflare Workers + KV, Vercel, Render, Docker
 **Practices:** automated tests, GitHub Actions CI, pull-request workflow, dependency auditing
 
@@ -11,6 +12,7 @@ Final-year BSc Computer Science student, graduating in 2027 and looking for **gr
 
 | Project | What I built | Stack | Live |
 | --- | --- | --- | --- |
+| [Viral Clipper](https://github.com/ibiraza1077-pixel/viral-clipper) | Local ML pipeline that turns long videos into vertical clips: Whisper transcription, LLM clip selection, face-tracked reframing and animated captions, plus AI-narrated story videos | Python, FastAPI, MLX Whisper, Claude API, OpenCV, ffmpeg | |
 | [CodePair](https://github.com/ibiraza1077-pixel/codepair) | Real-time collaborative coding rooms with a shared Monaco editor, chat, interview problems and in-browser JS/TS execution | TypeScript, React, Express, Socket.IO | [Demo](https://codepair-nine.vercel.app/) |
 | [AI Interview Coach](https://github.com/ibiraza1077-pixel/cf_ai_interview_coach) | Mock technical interviews driven by an LLM, with conversation history stored at the edge | React, TypeScript, Cloudflare Workers AI, KV | [Demo](https://cf-ai-interview-coach.ai-interview-coach.workers.dev/) |
 | [Job Tracker](https://github.com/ibiraza1077-pixel/job-tracker) | Full-stack app with sign-up, JWT auth and per-user application records in Postgres | React, Express, PostgreSQL, JWT | [Demo](https://job-tracker-liart-theta.vercel.app/) |
