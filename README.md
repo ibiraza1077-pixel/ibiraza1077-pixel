@@ -1,14 +1,28 @@
-# Ibrahim
+# Hi, I'm Ibrahim
 
-I build web applications with TypeScript, React, Node.js and Python. I am interested in 2027 graduate software engineering opportunities, particularly backend development and practical AI applications.
+I'm a final-year Computer Science student looking for internship opportunities across software engineering, AI and cybersecurity. I build web applications and explore how APIs, databases and AI services fit together.
 
 ## Selected projects
 
-- **[CodePair](https://github.com/ibiraza1077-pixel/codepair)** — collaborative coding practice with a TypeScript API, Socket.IO rooms and a React/Monaco interface.
-- **[AI Interview Coach](https://github.com/ibiraza1077-pixel/cf_ai_interview_coach)** — a Cloudflare Worker and React application exploring model-backed interview practice and conversation state.
-- **[Job Tracker](https://github.com/ibiraza1077-pixel/job-tracker)** — a React and Express application with PostgreSQL persistence, JWT authentication and per-user application records.
-- **[Weekly Slot Planner](https://github.com/ibiraza1077-pixel/slots)** — a browser-based tuition timetable with local persistence and exportable backups.
+| Project | What I built | Skills demonstrated |
+| --- | --- | --- |
+| [CodePair](https://github.com/ibiraza1077-pixel/codepair) | Collaborative coding practice with shared editor state, chat and interview problems | TypeScript, React, Express, Socket.IO |
+| [AI Interview Coach](https://github.com/ibiraza1077-pixel/cf_ai_interview_coach) | A mock interview interface backed by Workers AI and conversation history | React, TypeScript, Cloudflare Workers, KV |
+| [Job Tracker](https://github.com/ibiraza1077-pixel/job-tracker) | Application tracking with sign-up, login and per-user records | JavaScript, React, Express, PostgreSQL, JWT |
+| [UniLondon](https://github.com/ibiraza1077-pixel/ibiraza1077-pixel.github.io) | A student resource app with saved listings, offline support and scheduled data updates | JavaScript, Python, service workers, GitHub Actions |
 
-## Engineering focus
+[Explore UniLondon](https://ibiraza1077-pixel.github.io/)
 
-I am developing my experience in API design, relational data modelling, real-time collaboration, automated tests and reproducible local setup. Project READMEs explain the implemented behaviour and remaining limitations.
+## What I'm working on
+
+- Making projects easier to run, test and understand.
+- Developing my experience with API design, relational data modelling and real-time applications.
+- Exploring AI-assisted security workflows in my [security research prototype](https://github.com/ibiraza1077-pixel/ai-pentest-system).
+
+Each repository explains its setup, implemented features and limitations.
+
+## Get in touch
+
+I'm interested in internships where I can contribute to a team, learn from experienced engineers and build useful software.
+
+[Email me](mailto:ibiraza1077@gmail.com)
