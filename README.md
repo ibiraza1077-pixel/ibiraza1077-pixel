@@ -13,6 +13,8 @@ I'm a final-year Computer Science student looking for internship opportunities a
 
 [Explore UniLondon](https://ibiraza1077-pixel.github.io/)
 
+[Try AI Interview Coach](https://cf-ai-interview-coach.ai-interview-coach.workers.dev/)
+
 ## What I'm working on
 
 - Making projects easier to run, test and understand.
