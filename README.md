@@ -1,8 +1,8 @@
 # Hi, I'm Ibrahim
 
-Final-year BSc Computer Science student, graduating in 2027 and looking for **graduate software engineering roles**: backend, full-stack, AI/ML engineering or security. I build and ship full applications, with tests and CI on every project.
+Final-year BSc Computer Science student, graduating in 2027 and looking for **graduate software engineering roles**: backend, full-stack, AI/ML engineering or security. I build and ship full applications, with tests and CI on every project. Most recently I built [a SQL database from scratch](https://github.com/ibiraza1077-pixel/oakdb).
 
-- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Languages:** Go, TypeScript, JavaScript, Python, SQL
 - **Frameworks:** React, Node.js/Express, FastAPI, Socket.IO
 - **AI/ML:** Whisper (MLX), Claude API, OpenCV, local diffusion and TTS models
 - **Data & cloud:** PostgreSQL, Cloudflare Workers + KV, Vercel, Render, Docker
@@ -12,6 +12,7 @@ Final-year BSc Computer Science student, graduating in 2027 and looking for **gr
 
 | Project | What I built | Stack | Live |
 | --- | --- | --- | --- |
+| [OakDB](https://github.com/ibiraza1077-pixel/oakdb) | A SQL database built from scratch: B+tree storage, write-ahead log with crash recovery, snapshot isolation, a query planner with index and hash joins, and the PostgreSQL wire protocol. Tested against SQLite with 30,000 random queries and SIGKILL crash tests | Go, B+trees, WAL, PostgreSQL protocol | |
 | [Viral Clipper](https://github.com/ibiraza1077-pixel/viral-clipper) | Local ML pipeline that turns long videos into vertical clips: Whisper transcription, LLM clip selection, face-tracked reframing and animated captions, plus AI-narrated story videos | Python, FastAPI, MLX Whisper, Claude API, OpenCV, ffmpeg | |
 | [CodePair](https://github.com/ibiraza1077-pixel/codepair) | Real-time collaborative coding rooms with a shared Monaco editor, chat, interview problems and in-browser JS/TS execution | TypeScript, React, Express, Socket.IO | [Demo](https://codepair-nine.vercel.app/) |
 | [AI Interview Coach](https://github.com/ibiraza1077-pixel/cf_ai_interview_coach) | Mock technical interviews driven by an LLM, with conversation history stored at the edge | React, TypeScript, Cloudflare Workers AI, KV | [Demo](https://cf-ai-interview-coach.ai-interview-coach.workers.dev/) |
