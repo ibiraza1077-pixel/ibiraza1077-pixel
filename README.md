@@ -2,11 +2,11 @@
 
 Final-year BSc Computer Science student, graduating in 2027 and looking for **graduate software engineering roles**: backend, full-stack, AI/ML engineering or security. I build and ship full applications, with tests and CI on every project.
 
-**Languages:** TypeScript, JavaScript, Python, SQL
-**Frameworks:** React, Node.js/Express, FastAPI, Socket.IO
-**AI/ML:** Whisper (MLX), Claude API, OpenCV, local diffusion and TTS models
-**Data & cloud:** PostgreSQL, Cloudflare Workers + KV, Vercel, Render, Docker
-**Practices:** automated tests, GitHub Actions CI, pull-request workflow, dependency auditing
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frameworks:** React, Node.js/Express, FastAPI, Socket.IO
+- **AI/ML:** Whisper (MLX), Claude API, OpenCV, local diffusion and TTS models
+- **Data & cloud:** PostgreSQL, Cloudflare Workers + KV, Vercel, Render, Docker
+- **Practices:** automated tests, GitHub Actions CI, pull-request workflow, dependency auditing
 
 ## Selected projects
 
