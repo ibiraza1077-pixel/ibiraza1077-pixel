@@ -2,6 +2,8 @@
 
 Final-year BSc Computer Science student, graduating in 2027 and looking for **graduate software engineering roles**: backend, full-stack, AI/ML engineering or security. I build and ship full applications, with tests and CI on every project. Most recently I built [a SQL database from scratch](https://github.com/ibiraza1077-pixel/oakdb).
 
+**🌐 Portfolio: [ibiraza1077-pixel.github.io/portfolio](https://ibiraza1077-pixel.github.io/portfolio/)**, a 3D site with a working SQL terminal you can query.
+
 - **Languages:** Go, TypeScript, JavaScript, Python, SQL
 - **Frameworks:** React, Node.js/Express, FastAPI, Socket.IO
 - **AI/ML:** Whisper (MLX), Claude API, OpenCV, local diffusion and TTS models
@@ -17,8 +19,9 @@ Final-year BSc Computer Science student, graduating in 2027 and looking for **gr
 | [CodePair](https://github.com/ibiraza1077-pixel/codepair) | Real-time collaborative coding rooms with a shared Monaco editor, chat, interview problems and in-browser JS/TS execution | TypeScript, React, Express, Socket.IO | [Demo](https://codepair-nine.vercel.app/) |
 | [AI Interview Coach](https://github.com/ibiraza1077-pixel/cf_ai_interview_coach) | Mock technical interviews driven by an LLM, with conversation history stored at the edge | React, TypeScript, Cloudflare Workers AI, KV | [Demo](https://cf-ai-interview-coach.ai-interview-coach.workers.dev/) |
 | [Job Tracker](https://github.com/ibiraza1077-pixel/job-tracker) | Full-stack app with sign-up, JWT auth and per-user application records in Postgres | React, Express, PostgreSQL, JWT | [Demo](https://job-tracker-liart-theta.vercel.app/) |
+| [3D Portfolio](https://github.com/ibiraza1077-pixel/portfolio) | Interactive portfolio: a procedural 3D computer whose CRT runs a terminal with a hand-written SQL engine, and a scroll-driven dive into a GPU particle world | Three.js, GLSL, GSAP, JavaScript | [Live](https://ibiraza1077-pixel.github.io/portfolio/) |
 | [UniLondon](https://github.com/ibiraza1077-pixel/ibiraza1077-pixel.github.io) | Installable student resource app with offline support, a map view and scheduled Python data checks | JavaScript, Python, service workers, GitHub Actions | [Demo](https://ibiraza1077-pixel.github.io/) |
-| [AI Security Assessment](https://github.com/ibiraza1077-pixel/ai-pentest-system) | Research prototype for AI-assisted security workflows, with a working HTTP-evidence review API | Python, FastAPI, SQLAlchemy, Docker | |
+| [AI Security Assessment](https://github.com/ibiraza1077-pixel/ai-pentest-system) | Research prototype for AI-assisted security workflows, with a working HTTP-evidence review API | Python, FastAPI, SQLAlchemy, Docker | [Demo](https://ai-pentest-system.vercel.app) |
 
 The free API hosts for CodePair and Job Tracker can take about a minute to wake up after a period of inactivity.
 
