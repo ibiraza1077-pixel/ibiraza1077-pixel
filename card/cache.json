@@ -1,0 +1,59 @@
+{
+ "repos": {
+  "job-tracker": {
+   "c": 10,
+   "a": 6736,
+   "d": 952
+  },
+  "ai-pentest-system": {
+   "c": 8,
+   "a": 3401,
+   "d": 724
+  },
+  "cf_ai_interview_coach": {
+   "c": 9,
+   "a": 2393286,
+   "d": 2387294
+  },
+  "codepair": {
+   "c": 25,
+   "a": 9976,
+   "d": 1761
+  },
+  "AI-PDF-Studio": {
+   "c": 1,
+   "a": 12166,
+   "d": 0
+  },
+  "ibiraza1077-pixel": {
+   "c": 4,
+   "a": 20,
+   "d": 3
+  },
+  "ibiraza1077-pixel.github.io": {
+   "c": 9,
+   "a": 25059,
+   "d": 224
+  },
+  "viral-clipper": {
+   "c": 6,
+   "a": 3624,
+   "d": 10
+  },
+  "oakdb": {
+   "c": 11,
+   "a": 14961,
+   "d": 270
+  },
+  "portfolio": {
+   "c": 6,
+   "a": 3535,
+   "d": 23
+  },
+  "ziva-godot": {
+   "c": 2,
+   "a": 53519,
+   "d": 0
+  }
+ }
+}
