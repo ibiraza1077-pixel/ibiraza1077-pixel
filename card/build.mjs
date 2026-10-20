@@ -99,20 +99,22 @@ async function contributorStats(repo) {
 async function stats() {
   const cachePath = here('cache.json');
   const cache = existsSync(cachePath) ? JSON.parse(readFileSync(cachePath, 'utf8')) : { repos: {} };
+  // privacy: PUBLIC keeps private repos out of the card and its cache even when run with a personal token.
   const data = await graphql(`{ user(login: "${USER}") {
     createdAt followers { totalCount }
-    repositories(ownerAffiliations: OWNER, isFork: false, first: 100) { totalCount nodes { name stargazerCount } }
+    repositories(ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC, first: 100) { totalCount nodes { name stargazerCount } }
     repositoriesContributedTo(first: 1, includeUserRepositories: true, contributionTypes: [COMMIT, PULL_REQUEST, REPOSITORY]) { totalCount }
   } }`);
   const u = data.user;
   let commits = 0, add = 0, del = 0;
+  const fresh = {}; // rebuilt every run, so the cache only ever names the public repos counted
   for (const { name } of u.repositories.nodes) {
     // Reuse the last good numbers for a repo if GitHub has not finished computing them.
     const st = (await contributorStats(name)) || cache.repos[name] || { c: 0, a: 0, d: 0 };
-    cache.repos[name] = st;
+    fresh[name] = st;
     commits += st.c; add += st.a; del += st.d;
   }
-  writeFileSync(cachePath, JSON.stringify(cache, null, 1) + '\n');
+  writeFileSync(cachePath, JSON.stringify({ repos: fresh }, null, 1) + '\n');
   return {
     createdAt: new Date(u.createdAt),
     repos: u.repositories.totalCount,
