@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["card/build.mjs", ".github/workflows/card.yml"]
+    paths: ["card/*.mjs", ".github/workflows/card.yml"]
 
 permissions:
   contents: write
