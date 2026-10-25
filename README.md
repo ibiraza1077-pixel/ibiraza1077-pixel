@@ -8,7 +8,7 @@
 
 Final-year BSc Computer Science student, graduating in 2027 and looking for **graduate software engineering roles**: backend, full-stack, AI/ML engineering or security. I build and ship full applications, with tests and CI on every project.
 
-**[🌐 Portfolio](https://ibiraza1077-pixel.github.io/portfolio/)** · **[▶ OakDB in your browser](https://ibiraza1077-pixel.github.io/oakdb/demo/)** · **[🎬 Viral Clipper Studio](https://ibiraza1077-pixel.github.io/viral-clipper/)** · **[LinkedIn](https://www.linkedin.com/in/ibrahimraza-dev/)**
+**[🌐 Portfolio](https://ibiraza1077-pixel.github.io/portfolio/)** · **[▶ OakDB in your browser](https://ibiraza1077-pixel.github.io/oakdb/demo/)** · **[🎬 Viral Clipper Studio](https://ibiraza1077-pixel.github.io/viral-clipper/)**
 
 ## Selected projects
 

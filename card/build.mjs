@@ -116,7 +116,6 @@ function infoLines(st) {
     [['', 'cc']],
     rule('Contact'),
     kv('Email', 'ibiraza1077@gmail.com'),
-    kv('LinkedIn', 'ibrahimraza-dev'),
     [['', 'cc']],
     rule('GitHub Stats'),
     [...kv('Repos', `${st.repos} {Contributed: ${st.contributed}} | Stars: ${fmt(st.stars)}`)],
