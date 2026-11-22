@@ -8,6 +8,8 @@
 
 Final-year BSc Computer Science student, graduating in 2027 and looking for **graduate software engineering roles**: backend, full-stack, AI/ML engineering or security. I build and ship full applications, with tests and CI on every project.
 
+First-Class result in Year 2 · 6-month software developer internship (React, Node.js, PostgreSQL) with an invitation to return as a graduate developer.
+
 **[🌐 Portfolio](https://ibiraza1077-pixel.github.io/portfolio/)** · **[▶ OakDB in your browser](https://ibiraza1077-pixel.github.io/oakdb/demo/)** · **[🎬 Viral Clipper Studio](https://ibiraza1077-pixel.github.io/viral-clipper/)**
 
 ## Selected projects
@@ -15,6 +17,7 @@ Final-year BSc Computer Science student, graduating in 2027 and looking for **gr
 | Project | What I built | Stack | Live |
 | --- | --- | --- | --- |
 | [OakDB](https://github.com/ibiraza1077-pixel/oakdb) | A SQL database built from scratch: B+tree storage, write-ahead log with crash recovery, snapshot isolation, a query planner with index and hash joins, and the PostgreSQL wire protocol. Tested against SQLite with 30,000 random queries and SIGKILL crash tests | Go, B+trees, WAL, PostgreSQL protocol | [Demo](https://ibiraza1077-pixel.github.io/oakdb/demo/) |
+| [Agent Desk](https://github.com/ibiraza1077-pixel/agent-desk) | Multi-agent AI paper-trading desk: Analyst, Charts, Skeptic and Chief agents debate each trade, and a deterministic RiskGuard in pure code is the only path to an order, clamping every number the LLMs return. Live dashboard, kill switch, daily LLM budget cap, paper trading only | Python, FastAPI, SQLite, Claude / Ollama, Alpaca paper API | — |
 | [Viral Clipper](https://github.com/ibiraza1077-pixel/viral-clipper) | Local ML pipeline that turns long videos into vertical clips: Whisper transcription, LLM clip selection, face-tracked reframing and animated captions, plus AI-narrated story videos | Python, FastAPI, MLX Whisper, Claude API, OpenCV, ffmpeg | [Demo](https://ibiraza1077-pixel.github.io/viral-clipper/) |
 | [CodePair](https://github.com/ibiraza1077-pixel/codepair) | Real-time collaborative coding rooms with a shared Monaco editor, chat, interview problems and in-browser JS/TS execution | TypeScript, React, Express, Socket.IO | [Demo](https://codepair-nine.vercel.app/) |
 | [AI Interview Coach](https://github.com/ibiraza1077-pixel/cf_ai_interview_coach) | Mock technical interviews driven by an LLM, with conversation history stored at the edge | React, TypeScript, Cloudflare Workers AI, KV | [Demo](https://cf-ai-interview-coach.ai-interview-coach.workers.dev/) |
